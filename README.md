@@ -4,7 +4,7 @@ In this project a CNN model is trained to classify the images captured by dashbo
 
 The dataset is obtained from kaggle. Here is the link to the dataset https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
-In this project no pretrained model was used and various models were tried and trained.The best model was able to achive 99% accuracy on both training and validation data.
+In this project no pretrained model was used and various models were tried and trained.Our CNN model was able to achive 99% accuracy on both training and validation data.
 
 Some of the results predicted by our model are as follows:
 
