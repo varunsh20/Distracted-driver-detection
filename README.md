@@ -36,7 +36,7 @@ Confusion matrix
 
 ![dd1](https://user-images.githubusercontent.com/62187533/121957837-9557cf80-cd80-11eb-8f8a-1e3a5c814b16.png)
 
-Some of the results predicted by our model are as follows:
+### Some of the results predicted by our model are as follows:
 
 ![Screenshot (134)](https://user-images.githubusercontent.com/62187533/121786057-3147d680-cbdb-11eb-907e-ce2b94a22ed0.png)
 ![Screenshot (135)](https://user-images.githubusercontent.com/62187533/121786058-32790380-cbdb-11eb-8465-19a62dff45cd.png)
