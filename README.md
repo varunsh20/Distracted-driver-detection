@@ -17,7 +17,7 @@ The 10 classes are:
  
 The dataset is obtained from kaggle. Here is the link to the dataset https://www.kaggle.com/c/state-farm-distracted-driver-detection
 
-In this project no pre-trained model is used and a lot of models were trained until we got our best model that is able to achive 99% accuracy on both training and validation data.
+Here no pre-trained model is used and a lot of models were trained until we got our best model that is able to achive 99% accuracy on both training and validation data.
 
 ### Structure of our model:
 
